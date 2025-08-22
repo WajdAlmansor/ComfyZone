@@ -1,5 +1,10 @@
 # 🎮 ComfyZone  
 
+
+
+<img width="499" height="499" alt="girlll" src="https://github.com/user-attachments/assets/7ab2f0a2-f52e-4e65-8a0e-bc72a9db38b0" /> 
+
+
 A small, fast, tap-to-protect game built for the **Swift Student Challenge**.  
 You’re guiding a girl who’s climbing out of the deep, out of her comfort zone, while grasping hands reach for her.  
 Your mission: **tap the hands before they grab her down**. ✋🚫  
