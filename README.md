@@ -33,3 +33,9 @@ A compact experiment about leaving the comfort zone: simple rules, rising pressu
    ```bash
    cd ComfyZone
    open ComfyZone.playground
+
+
+## 🙏 Credits
+
+- 🎨 Artwork: @krayio on X
+- 💻 Coding & Development: Wajd (Me)
