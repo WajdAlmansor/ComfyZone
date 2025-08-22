@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "PlayButton.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
